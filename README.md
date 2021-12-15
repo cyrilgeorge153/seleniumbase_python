@@ -44,7 +44,7 @@ pip install seleniumbase
  
  # Test execution gif
 
-
+![iKFuQx3zwF](https://user-images.githubusercontent.com/52770689/146147625-0f0d4382-e681-4a10-a348-266fd466a485.gif)
  
  # Html report screenshots
  
